@@ -11,8 +11,3 @@ const timer = args => {
 }
 
 timer(args);
-
-//console.log(args);
-//let negativeNumberCheck = Math.sign(args);
-//let numberCheck = args[0];
-
